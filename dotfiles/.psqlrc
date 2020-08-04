@@ -1,0 +1,3 @@
+\set history unlimited
+-- \timing on
+\x auto

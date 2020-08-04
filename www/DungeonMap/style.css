@@ -1,0 +1,19 @@
+body {
+    background: #000000;
+}
+
+h1{
+    display: block;
+    text-align: center;
+    margin-top: -300px;
+    color: #FFFFFF;
+}
+
+canvas#bitmapMap {
+    margin: 0 auto;
+    display: block;
+}
+
+pre#roguelikeMap {
+    margin: 0 auto;
+}
